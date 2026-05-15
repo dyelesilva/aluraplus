@@ -116,7 +116,7 @@ body{
     color: var(--branco-princial);
 }
 .rodape__logo{
-   display: block;
+   display: center;
    margin-bottom: 0 auto 2em auto;
 }
 .rodape__lista{
