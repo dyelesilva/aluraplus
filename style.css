@@ -117,7 +117,7 @@ body{
 }
 .rodape__logo{
    display: center;
-   margin-bottom: 0 auto 2em auto;
+   margin-bottom: 2em;
 }
 .rodape__lista{
     display: flex;
